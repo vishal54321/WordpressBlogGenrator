@@ -1,6 +1,7 @@
 from wordpress_auto_post import WordPressAutoPost
 import sys
 
+
 def main():
     # Get title from command line argument or prompt
     if len(sys.argv) > 1:
